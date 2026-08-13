@@ -1,0 +1,9 @@
+[submodule "relgnn"]
+	path = components/external/relgnn
+	url = https://github.com/snap-stanford/RelGNN
+[submodule "relgt"]
+	path = components/external/relgt
+	url = https://github.com/snap-stanford/relgt
+[submodule "relbench-user-study"]
+	path = components/external/userstudy
+	url = https://github.com/snap-stanford/relbench-user-study/
