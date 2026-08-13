@@ -1,3 +1,7 @@
 # Boosting-RDL
 
 The source code to my masters thesis "A Novel Approach for Relational Deep Learning".
+
+## Abstract
+
+Relational databases are one of the most essential tools for data storage worldwide, and many incentives for employing predictive learning techniques on these databases exist. Current tabular learning methods only work with singular tables and require manual feature engineering, which loses many of the valuable structural information relational databases provide. As a solution, Relational Deep Learning (RDL) was introduced, which transforms relational databases into relational entity graphs and leverages Graph Neural Networks to create an end-to-end learning paradigm. While RDL shows improvements compared to tabular models, it is not free from issues. Specifically, the high variety between RDL datasets and tasks make it very difficult to determine models and configurations that consistently perform well across multiple tasks. In this thesis, the applicability of the AdaBoost algorithm to RDL is examined, which is to the best of my knowledge the first application of boosting to RDL. A flexible and extendable modeling, training and testing framework is developed and an extensive testing and evaluation process is conducted. Results show that, while boosting does not always improve the best component model's performance, it successfully creates more general and stable RDL models that perform better on average as well.
