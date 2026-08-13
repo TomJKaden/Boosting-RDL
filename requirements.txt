@@ -1,0 +1,12 @@
+relbench[full]
+sentence_transformers
+termcolor
+redelex
+h5py
+einops
+matplotlib
+lightgbm
+optuna
+pandarallel
+seaborn
+adjustText
